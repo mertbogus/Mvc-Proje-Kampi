@@ -1,0 +1,43 @@
+﻿@model EntityLayer.Concrete.Writer
+@{
+    ViewBag.Title = "AddWriter";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Yeni Yazar Ekleme</h2>
+<br />
+@using (Html.BeginForm("AddWriter", "Writer", FormMethod.Post))
+{
+    <form class="form-group" method="post">
+        @Html.Label("Yazar Adı")
+        <br />
+        @Html.TextBoxFor(x => x.WriterName)
+        @Html.ValidationMessageFor(x => x.WriterName)
+        <br />
+        @Html.Label("Yazar Soyadı")
+        <br />
+        @Html.TextBoxFor(x => x.WriterSurname)
+        @Html.ValidationMessageFor(x => x.WriterSurname)
+        <br />
+        @Html.Label("Yazar Mail")
+        <br />
+        @Html.TextBoxFor(x => x.Mail)
+        @Html.ValidationMessageFor(x => x.Mail)
+        <br />
+        @Html.Label("Yazar Şifresi")
+        <br />
+        @Html.TextBoxFor(x => x.MWriterPassword)
+        @Html.ValidationMessageFor(x => x.MWriterPassword)
+        @Html.Label("Yazar Görseli")
+        <br />
+        @Html.TextBoxFor(x => x.WriterImage)
+        @Html.ValidationMessageFor(x => x.WriterImage)
+        <br />
+        @Html.Label("Yazar Hakkında")
+        <br />
+        @Html.TextAreaFor(x => x.WriterAbout)
+        @Html.ValidationMessageFor(x => x.WriterAbout)
+
+        <button class="btn btn-primary">Yazarı Ekle</button>
+    </form>
+

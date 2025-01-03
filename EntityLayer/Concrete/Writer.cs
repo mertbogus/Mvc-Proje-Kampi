@@ -17,10 +17,12 @@ namespace EntityLayer.Concrete
         public string WriterSurname { get; set; }
         [StringLength(100)]
         public string WriterImage { get; set; }
-        [StringLength(50)]
+        [StringLength(200)]
         public string Mail { get; set; }
-        [StringLength(20)]
+        [StringLength(200)]
         public string MWriterPassword { get; set; }
+        [StringLength(100)]
+        public string WriterAbout { get; set; }
 
         public ICollection<Heading> Headings { get; set; }
         
