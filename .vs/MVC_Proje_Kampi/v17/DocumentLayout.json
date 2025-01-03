@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8D3E4B65-014E-4448-BCEB-D4A9276BFA20}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\mert\\source\\repos\\mvc_proje_kampi\\businesslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3E4B65-014E-4448-BCEB-D4A9276BFA20}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3E4B65-014E-4448-BCEB-D4A9276BFA20}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\mert\\source\\repos\\mvc_proje_kampi\\businesslayer\\abatract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3E4B65-014E-4448-BCEB-D4A9276BFA20}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abatract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|c:\\users\\mert\\source\\repos\\mvc_proje_kampi\\mvc_proje_kampi\\views\\admincategory\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|solutionrelative:mvc_proje_kampi\\views\\admincategory\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\mvc_proje_kampi\\views\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|solutionrelative:mvc_proje_kampi\\views\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\mvc_proje_kampi\\views\\admincategory\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|solutionrelative:mvc_proje_kampi\\views\\admincategory\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\mvc_proje_kampi\\controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|solutionrelative:mvc_proje_kampi\\controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DED5D34-6EE7-4BEE-8B22-B05CEF87712C}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mert\\source\\repos\\mvc_proje_kampi\\dataaccesslayer\\concrete\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DED5D34-6EE7-4BEE-8B22-B05CEF87712C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DED5D34-6EE7-4BEE-8B22-B05CEF87712C}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\mert\\source\\repos\\mvc_proje_kampi\\dataaccesslayer\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3DED5D34-6EE7-4BEE-8B22-B05CEF87712C}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\dataaccesslayer\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DED5D34-6EE7-4BEE-8B22-B05CEF87712C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|c:\\users\\mert\\source\\repos\\mvc_proje_kampi\\mvc_proje_kampi\\views\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|solutionrelative:mvc_proje_kampi\\views\\admincategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|c:\\users\\mert\\source\\repos\\mvc_proje_kampi\\mvc_proje_kampi\\views\\admincategory\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|solutionrelative:mvc_proje_kampi\\views\\admincategory\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|c:\\users\\mert\\source\\repos\\mvc_proje_kampi\\mvc_proje_kampi\\controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|solutionrelative:mvc_proje_kampi\\controllers\\admincategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,65 +70,104 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Views\\AdminCategory\\EditCategory.cshtml",
+              "RelativeDocumentMoniker": "MVC_Proje_Kampi\\Views\\AdminCategory\\EditCategory.cshtml",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Views\\AdminCategory\\EditCategory.cshtml",
+              "RelativeToolTip": "MVC_Proje_Kampi\\Views\\AdminCategory\\EditCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T21:46:54.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\BusinessLayer\\Abatract\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abatract\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\BusinessLayer\\Abatract\\ICategoryService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abatract\\ICategoryService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:39:14.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\BusinessLayer\\Concrete\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\BusinessLayer\\Concrete\\CategoryManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\CategoryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:38:51.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\DataAccessLayer\\Concrete\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\Repositories\\GenericRepository.cs",
               "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\DataAccessLayer\\Concrete\\Repositories\\GenericRepository.cs",
               "RelativeToolTip": "DataAccessLayer\\Concrete\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwB8AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T19:36:05.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\DataAccessLayer\\Abstract\\IRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Abstract\\IRepository.cs",
               "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\DataAccessLayer\\Abstract\\IRepository.cs",
               "RelativeToolTip": "DataAccessLayer\\Abstract\\IRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T19:35:17.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Views\\AdminCategory\\Index.cshtml",
               "RelativeDocumentMoniker": "MVC_Proje_Kampi\\Views\\AdminCategory\\Index.cshtml",
               "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Views\\AdminCategory\\Index.cshtml",
               "RelativeToolTip": "MVC_Proje_Kampi\\Views\\AdminCategory\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-03T19:25:18.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AddCategory.cshtml",
               "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Views\\AdminCategory\\AddCategory.cshtml",
               "RelativeDocumentMoniker": "MVC_Proje_Kampi\\Views\\AdminCategory\\AddCategory.cshtml",
               "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Views\\AdminCategory\\AddCategory.cshtml",
               "RelativeToolTip": "MVC_Proje_Kampi\\Views\\AdminCategory\\AddCategory.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBcAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-03T19:22:07.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AdminCategoryController.cs",
               "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Controllers\\AdminCategoryController.cs",
               "RelativeDocumentMoniker": "MVC_Proje_Kampi\\Controllers\\AdminCategoryController.cs",
               "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Controllers\\AdminCategoryController.cs",
               "RelativeToolTip": "MVC_Proje_Kampi\\Controllers\\AdminCategoryController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwEEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T19:03:37.356Z",
               "EditorCaption": ""
