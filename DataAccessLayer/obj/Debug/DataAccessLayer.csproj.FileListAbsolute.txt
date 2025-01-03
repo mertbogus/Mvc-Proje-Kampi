@@ -1,0 +1,17 @@
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
