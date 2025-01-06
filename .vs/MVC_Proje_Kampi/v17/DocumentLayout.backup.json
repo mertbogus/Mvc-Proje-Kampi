@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\mvc_proje_kampi\\views\\writer\\addwriter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|solutionrelative:mvc_proje_kampi\\views\\writer\\addwriter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|c:\\users\\mert\\source\\repos\\mvc_proje_kampi\\mvc_proje_kampi\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|solutionrelative:mvc_proje_kampi\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|c:\\users\\mert\\source\\repos\\mvc_proje_kampi\\mvc_proje_kampi\\views\\writer\\editwriter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|solutionrelative:mvc_proje_kampi\\views\\writer\\editwriter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|c:\\users\\mert\\source\\repos\\mvc_proje_kampi\\mvc_proje_kampi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|solutionrelative:mvc_proje_kampi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D3E4B65-014E-4448-BCEB-D4A9276BFA20}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\businesslayer\\validationrules\\writervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D3E4B65-014E-4448-BCEB-D4A9276BFA20}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\validationrules\\writervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|c:\\users\\mert\\source\\repos\\mvc_proje_kampi\\mvc_proje_kampi\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|solutionrelative:mvc_proje_kampi\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\mvc_proje_kampi\\views\\writer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|solutionrelative:mvc_proje_kampi\\views\\writer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8D3E4B65-014E-4448-BCEB-D4A9276BFA20}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\mert\\source\\repos\\mvc_proje_kampi\\businesslayer\\concrete\\aboutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3E4B65-014E-4448-BCEB-D4A9276BFA20}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\aboutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\mvc_proje_kampi\\controllers\\writercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|solutionrelative:mvc_proje_kampi\\controllers\\writercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D3E4B65-014E-4448-BCEB-D4A9276BFA20}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\mert\\source\\repos\\mvc_proje_kampi\\businesslayer\\abatract\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3E4B65-014E-4448-BCEB-D4A9276BFA20}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abatract\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,66 +58,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Views\\Writer\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVC_Proje_Kampi\\Views\\Writer\\Index.cshtml",
-              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Views\\Writer\\Index.cshtml",
-              "RelativeToolTip": "MVC_Proje_Kampi\\Views\\Writer\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Proje_Kampi\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "MVC_Proje_Kampi\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T23:22:01.528Z"
+              "WhenOpened": "2025-01-06T00:05:46.516Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EditWriter.cshtml",
-              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Views\\Writer\\EditWriter.cshtml",
-              "RelativeDocumentMoniker": "MVC_Proje_Kampi\\Views\\Writer\\EditWriter.cshtml",
-              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Views\\Writer\\EditWriter.cshtml",
-              "RelativeToolTip": "MVC_Proje_Kampi\\Views\\Writer\\EditWriter.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T23:20:14.912Z",
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "MVC_Proje_Kampi\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "MVC_Proje_Kampi\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T00:04:25.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WriterValidator.cs",
-              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\BusinessLayer\\ValidationRules\\WriterValidator.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\ValidationRules\\WriterValidator.cs",
-              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\BusinessLayer\\ValidationRules\\WriterValidator.cs",
-              "RelativeToolTip": "BusinessLayer\\ValidationRules\\WriterValidator.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABnAAAAAAAAAA==",
+              "Title": "ContentController.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Controllers\\ContentController.cs",
+              "RelativeDocumentMoniker": "MVC_Proje_Kampi\\Controllers\\ContentController.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Controllers\\ContentController.cs",
+              "RelativeToolTip": "MVC_Proje_Kampi\\Controllers\\ContentController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T23:13:31.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddWriter.cshtml",
-              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Views\\Writer\\AddWriter.cshtml",
-              "RelativeDocumentMoniker": "MVC_Proje_Kampi\\Views\\Writer\\AddWriter.cshtml",
-              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Views\\Writer\\AddWriter.cshtml",
-              "RelativeToolTip": "MVC_Proje_Kampi\\Views\\Writer\\AddWriter.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-03T23:08:27.465Z",
+              "WhenOpened": "2025-01-06T00:04:03.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "WriterController.cs",
-              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Controllers\\WriterController.cs",
-              "RelativeDocumentMoniker": "MVC_Proje_Kampi\\Controllers\\WriterController.cs",
-              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Controllers\\WriterController.cs",
-              "RelativeToolTip": "MVC_Proje_Kampi\\Controllers\\WriterController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAYwEkAAAAZAAAAAAAAAA==",
+              "Title": "IAboutService.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\BusinessLayer\\Abatract\\IAboutService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abatract\\IAboutService.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\BusinessLayer\\Abatract\\IAboutService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abatract\\IAboutService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T22:41:56.1Z"
+              "WhenOpened": "2025-01-05T23:42:03.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutManager.cs",
+              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\BusinessLayer\\Concrete\\AboutManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\AboutManager.cs",
+              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\BusinessLayer\\Concrete\\AboutManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\AboutManager.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAApwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:41:05.544Z",
+              "EditorCaption": ""
             }
           ]
         }

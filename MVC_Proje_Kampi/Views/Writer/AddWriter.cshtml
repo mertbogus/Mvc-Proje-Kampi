@@ -26,7 +26,7 @@
         <br />
         @Html.Label("Yazar Şifresi")
         <br />
-        @Html.TextBoxFor(x => x.MWriterPassword, new { @class = "form-control" })
+        @Html.PasswordFor(x => x.MWriterPassword, new { @class = "form-control" })
         @Html.ValidationMessageFor(x => x.MWriterPassword, "", new { @class = "text-danger" })
         @Html.Label("Yazar Görseli")
         <br />
@@ -37,7 +37,11 @@
         <br />
         @Html.TextAreaFor(x => x.WriterAbout, new { @class = "form-control" })
         @Html.ValidationMessageFor(x => x.WriterAbout, "", new { @class = "text-danger" })
-
+        <br />
+        @Html.Label("Yazar Ünvanı")
+        <br />
+        @Html.TextAreaFor(x => x.WriterTitle, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.WriterTitle, "", new { @class = "text-danger" })
         <button class="btn btn-primary">Yazarı Ekle</button>
     </form>
 }

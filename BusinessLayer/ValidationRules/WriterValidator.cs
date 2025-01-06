@@ -18,6 +18,8 @@ namespace BusinessLayer.ValidationRules
             RuleFor(x => x.WriterSurname).MinimumLength(3).WithMessage("Lütfen En Az 3 Karakter Girişi Yapınız.");
             RuleFor(x => x.WriterSurname).MaximumLength(20).WithMessage("Lütfen  20 Karakterden Fazla Karakter Girişi Yapmayın.");
             RuleFor(x => x.Mail).EmailAddress().WithMessage("Lütfen Geçerli Bir Mail Adresi Giriniz.");
+            RuleFor(x => x.WriterTitle).MaximumLength(20).WithMessage("Lütfen  20 Karakterden Fazla Karakter Girişi Yapmayın.");
+            RuleFor(x => x.WriterTitle).NotEmpty().WithMessage("Unvan Kısmını Boş Geçemezsiniz.");
         }
     }
 }

@@ -16,3 +16,7 @@ C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessL
 C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
 C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
 C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit.resources
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertitle_Add.resources
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writerimage_edit.resources
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writerimage_edit1.resources
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_heading_status.resources
