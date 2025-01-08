@@ -5,22 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|c:\\users\\mert\\source\\repos\\mvc_proje_kampi\\mvc_proje_kampi\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|solutionrelative:mvc_proje_kampi\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|c:\\users\\mert\\source\\repos\\mvc_proje_kampi\\mvc_proje_kampi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|solutionrelative:mvc_proje_kampi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|c:\\users\\mert\\source\\repos\\mvc_proje_kampi\\mvc_proje_kampi\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{471D489E-3D35-4C62-9581-AB2ED9887822}|MVC_Proje_Kampi\\MVC_Proje_Kampi.csproj|solutionrelative:mvc_proje_kampi\\controllers\\contentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D3E4B65-014E-4448-BCEB-D4A9276BFA20}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\mert\\source\\repos\\mvc_proje_kampi\\businesslayer\\concrete\\aboutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D3E4B65-014E-4448-BCEB-D4A9276BFA20}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\aboutmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D3E4B65-014E-4448-BCEB-D4A9276BFA20}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\mert\\source\\repos\\mvc_proje_kampi\\businesslayer\\abatract\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D3E4B65-014E-4448-BCEB-D4A9276BFA20}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abatract\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -64,61 +48,9 @@
               "RelativeDocumentMoniker": "MVC_Proje_Kampi\\Views\\Contact\\Index.cshtml",
               "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Views\\Contact\\Index.cshtml",
               "RelativeToolTip": "MVC_Proje_Kampi\\Views\\Contact\\Index.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAIwE0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-06T00:05:46.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "MVC_Proje_Kampi\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "MVC_Proje_Kampi\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T00:04:25.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ContentController.cs",
-              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Controllers\\ContentController.cs",
-              "RelativeDocumentMoniker": "MVC_Proje_Kampi\\Controllers\\ContentController.cs",
-              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\MVC_Proje_Kampi\\Controllers\\ContentController.cs",
-              "RelativeToolTip": "MVC_Proje_Kampi\\Controllers\\ContentController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T00:04:03.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IAboutService.cs",
-              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\BusinessLayer\\Abatract\\IAboutService.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Abatract\\IAboutService.cs",
-              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\BusinessLayer\\Abatract\\IAboutService.cs",
-              "RelativeToolTip": "BusinessLayer\\Abatract\\IAboutService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T23:42:03.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AboutManager.cs",
-              "DocumentMoniker": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\BusinessLayer\\Concrete\\AboutManager.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\AboutManager.cs",
-              "ToolTip": "C:\\Users\\MERT\\source\\repos\\MVC_Proje_Kampi\\BusinessLayer\\Concrete\\AboutManager.cs",
-              "RelativeToolTip": "BusinessLayer\\Concrete\\AboutManager.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAApwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T23:41:05.544Z",
+              "WhenOpened": "2025-01-08T21:58:13.824Z",
               "EditorCaption": ""
             }
           ]

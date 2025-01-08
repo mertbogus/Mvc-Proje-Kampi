@@ -142,8 +142,10 @@
     <Compile Include="Controllers\CategoryController.cs" />
     <Compile Include="Controllers\ContactController.cs" />
     <Compile Include="Controllers\ContentController.cs" />
+    <Compile Include="Controllers\ErrorPageController.cs" />
     <Compile Include="Controllers\HeadingController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\MessageController.cs" />
     <Compile Include="Controllers\WriterController.cs" />
     <Compile Include="Controllers\İstatistikController.cs" />
     <Compile Include="Global.asax.cs">
@@ -2022,6 +2024,10 @@
     <Content Include="Template\AdminLTE-3.0.4\plugins\toastr\toastr.min.css" />
     <Content Include="Template\AdminLTE-3.0.4\plugins\toastr\toastr.min.js" />
     <Content Include="Template\AdminLTE-3.0.4\starter.html" />
+    <Content Include="Template\colorlib-error-404-10\css\style.css" />
+    <Content Include="Template\colorlib-error-404-10\img\bg.jpg" />
+    <Content Include="Template\colorlib-error-404-10\index.html" />
+    <Content Include="Template\colorlib-error-404-10\readme.txt" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -2309,6 +2315,18 @@
     <Content Include="Views\About\Index.cshtml" />
     <Content Include="Views\About\AboutPartial.cshtml" />
     <Content Include="Views\Contact\Index.cshtml" />
+    <Content Include="Views\Contact\GetContactDetails.cshtml" />
+    <Content Include="Views\Contact\ContactSideBarPartial.cshtml" />
+    <Content Include="Views\Message\Inbox.cshtml" />
+    <Content Include="Views\Message\Sendbox.cshtml" />
+    <Content Include="Views\Message\NewMessage.cshtml" />
+    <Content Include="Views\Message\Draft.cshtml" />
+    <Content Include="Views\Message\GetDraftMessageDetails.cshtml" />
+    <Content Include="Views\Message\GetInBoxMessageDetails.cshtml" />
+    <Content Include="Views\Message\GetSendBoxMessageDetails.cshtml" />
+    <Content Include="Views\Message\ReadMessage.cshtml" />
+    <Content Include="Views\Message\UnReadMessage.cshtml" />
+    <Content Include="Views\ErrorPage\Page404.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

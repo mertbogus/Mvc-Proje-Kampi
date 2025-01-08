@@ -20,3 +20,7 @@ C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessL
 C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writerimage_edit.resources
 C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writerimage_edit1.resources
 C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_heading_status.resources
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contact_datetime_add.resources
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_message_table_add.resources
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_message_ısread_add.resources
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_message_ısdraft_Add.resources
