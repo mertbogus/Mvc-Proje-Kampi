@@ -9,6 +9,7 @@ using System.Web.Mvc;
 
 namespace MVC_Proje_Kampi.Controllers
 {
+    [Authorize(Roles = "B")]
     public class AboutController : Controller
     {
         

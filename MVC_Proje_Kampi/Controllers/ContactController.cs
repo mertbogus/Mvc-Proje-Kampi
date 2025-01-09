@@ -9,9 +9,10 @@ using System.Web.Mvc;
 
 namespace MVC_Proje_Kampi.Controllers
 {
+    [Authorize]
     public class ContactController : Controller
     {
-        //private MessageManager _messageManager = new MessageManager(new EfMessageDal());
+        
         ContactManager cm=new ContactManager(new EfContactDal());
         ContactValidator cv=new ContactValidator();
         MessageManager messageManager = new MessageManager(new EfMessageDal());
@@ -32,13 +33,13 @@ namespace MVC_Proje_Kampi.Controllers
             string userEmail = (string)Session["WriterMail"];
             var contactList = cm.GetContactList();
             ViewBag.contactCount = contactList.Count();
-            //var list = messageManager.GetMessageList(userEmail);
-            //var sendList = list.FindAll(x => x.isDraft == false);
-            //ViewBag.sendCount = sendList.Count();
-            //var list2 = messageManager.GetListInbox(userEmail);
-            //ViewBag.inboxCount = list2.Count();
-            //var drafList = list.FindAll(x => x.isDraft == true);
-            //ViewBag.draftCount = drafList.Count();
+            var list = messageManager.GetListInbox(userEmail);
+            var sendList = list.FindAll(x => x.IsDraft == false);
+            ViewBag.sendCount = sendList.Count();
+            var list2 = messageManager.GetListSendbox(userEmail);
+            ViewBag.inboxCount = list2.Count();
+            var drafList = list.FindAll(x => x.IsDraft == true);
+            ViewBag.draftCount = drafList.Count();
             return PartialView();
         }
     }

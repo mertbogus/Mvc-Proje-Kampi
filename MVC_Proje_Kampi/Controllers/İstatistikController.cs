@@ -7,6 +7,7 @@ using System.Web.Mvc;
 
 namespace MVC_Proje_Kampi.Controllers
 {
+    [Authorize(Roles = "B")]
     public class İstatistikController : Controller
     {
         Context cm = new Context();

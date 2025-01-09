@@ -11,6 +11,7 @@ using System.Web.Mvc;
 
 namespace MVC_Proje_Kampi.Controllers
 {
+    [Authorize]
     public class WriterController : Controller
     {
         WriterManager wm = new WriterManager(new EfWriterDal());

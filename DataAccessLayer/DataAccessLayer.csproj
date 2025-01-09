@@ -56,17 +56,23 @@
     <Compile Include="Abstract\IContactDal.cs" />
     <Compile Include="Abstract\IContentDal.cs" />
     <Compile Include="Abstract\IHeadingDal.cs" />
+    <Compile Include="Abstract\IAdminDal.cs" />
+    <Compile Include="Abstract\ImageFileDal.cs" />
     <Compile Include="Abstract\IMessageDal.cs" />
     <Compile Include="Abstract\IRepository.cs" />
+    <Compile Include="Abstract\IRoleDal.cs" />
     <Compile Include="Abstract\IWriterDal.cs" />
     <Compile Include="Concrete\Context.cs" />
     <Compile Include="Concrete\Repositories\GenericRepository.cs" />
     <Compile Include="EntityFramework\EfAboutDal.cs" />
+    <Compile Include="EntityFramework\EfAdminDal.cs" />
     <Compile Include="EntityFramework\EfCategoryDal.cs" />
     <Compile Include="EntityFramework\EfContactDal.cs" />
     <Compile Include="EntityFramework\EfContentDal.cs" />
     <Compile Include="EntityFramework\EfHeadingDal.cs" />
+    <Compile Include="EntityFramework\EfImageFileDal.cs" />
     <Compile Include="EntityFramework\EfMessageDal.cs" />
+    <Compile Include="EntityFramework\EfRoleDal.cs" />
     <Compile Include="EntityFramework\EfWriterDal.cs" />
     <Compile Include="Migrations\202501022227544_mig1.cs" />
     <Compile Include="Migrations\202501022227544_mig1.Designer.cs">
@@ -107,6 +113,18 @@
     <Compile Include="Migrations\202501082121004_mig_message_ısdraft_Add.cs" />
     <Compile Include="Migrations\202501082121004_mig_message_ısdraft_Add.Designer.cs">
       <DependentUpon>202501082121004_mig_message_ısdraft_Add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202501082205590_mig_add_imagefile.cs" />
+    <Compile Include="Migrations\202501082205590_mig_add_imagefile.Designer.cs">
+      <DependentUpon>202501082205590_mig_add_imagefile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202501092028195_mig_admin_table.cs" />
+    <Compile Include="Migrations\202501092028195_mig_admin_table.Designer.cs">
+      <DependentUpon>202501092028195_mig_admin_table.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202501092120317_mig_adminandrole_update.cs" />
+    <Compile Include="Migrations\202501092120317_mig_adminandrole_update.Designer.cs">
+      <DependentUpon>202501092120317_mig_adminandrole_update.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -151,6 +169,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202501082121004_mig_message_ısdraft_Add.resx">
       <DependentUpon>202501082121004_mig_message_ısdraft_Add.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202501082205590_mig_add_imagefile.resx">
+      <DependentUpon>202501082205590_mig_add_imagefile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202501092028195_mig_admin_table.resx">
+      <DependentUpon>202501092028195_mig_admin_table.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202501092120317_mig_adminandrole_update.resx">
+      <DependentUpon>202501092120317_mig_adminandrole_update.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup />

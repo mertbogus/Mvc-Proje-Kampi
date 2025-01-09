@@ -82,18 +82,24 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abatract\IAboutService.cs" />
+    <Compile Include="Abatract\IAdminService.cs" />
     <Compile Include="Abatract\ICategoryService.cs" />
     <Compile Include="Abatract\IContactService.cs" />
     <Compile Include="Abatract\IContentService.cs" />
     <Compile Include="Abatract\IHeadingService.cs" />
+    <Compile Include="Abatract\IImageFileService.cs" />
     <Compile Include="Abatract\IMessageService.cs" />
+    <Compile Include="Abatract\IRoleService.cs" />
     <Compile Include="Abatract\IWriterService.cs" />
     <Compile Include="Concrete\AboutManager.cs" />
+    <Compile Include="Concrete\AdminManager.cs" />
     <Compile Include="Concrete\CategoryManager.cs" />
     <Compile Include="Concrete\ContactManager.cs" />
     <Compile Include="Concrete\ContentManager.cs" />
     <Compile Include="Concrete\HeadingManager.cs" />
+    <Compile Include="Concrete\ImageFileManager.cs" />
     <Compile Include="Concrete\MessageManager.cs" />
+    <Compile Include="Concrete\RoleManager.cs" />
     <Compile Include="Concrete\WriterManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ValidationRules\CategoryValidator.cs" />
