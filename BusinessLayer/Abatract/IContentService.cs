@@ -10,6 +10,8 @@ namespace BusinessLayer.Abatract
     public interface IContentService
     {
         List<Content> GetContentList();
+        List<Content> GetListByWriter(int id);
+        List<Content> GetSearchedWords(string searchedWords);
 
         void ContentAddBL(Content content);
 

@@ -126,6 +126,10 @@
     <Compile Include="Migrations\202501092120317_mig_adminandrole_update.Designer.cs">
       <DependentUpon>202501092120317_mig_adminandrole_update.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202501172130071_mig_content_status_add.cs" />
+    <Compile Include="Migrations\202501172130071_mig_content_status_add.Designer.cs">
+      <DependentUpon>202501172130071_mig_content_status_add.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -178,6 +182,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202501092120317_mig_adminandrole_update.resx">
       <DependentUpon>202501092120317_mig_adminandrole_update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202501172130071_mig_content_status_add.resx">
+      <DependentUpon>202501172130071_mig_content_status_add.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup />

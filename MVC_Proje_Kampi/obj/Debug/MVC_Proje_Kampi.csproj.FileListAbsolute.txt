@@ -96,3 +96,7 @@ C:\Users\MERT\source\repos\MVC_Proje_Kampi\MVC_Proje_Kampi\bin\System.Threading.
 C:\Users\MERT\source\repos\MVC_Proje_Kampi\MVC_Proje_Kampi\bin\FluentValidation.xml
 C:\Users\MERT\source\repos\MVC_Proje_Kampi\MVC_Proje_Kampi\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\MERT\source\repos\MVC_Proje_Kampi\MVC_Proje_Kampi\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\MVC_Proje_Kampi\bin\PagedList.dll
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\MVC_Proje_Kampi\bin\PagedList.Mvc.dll
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\MVC_Proje_Kampi\bin\PagedList.xml
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\MVC_Proje_Kampi\bin\PagedList.Mvc.xml

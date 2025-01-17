@@ -41,12 +41,12 @@ namespace BusinessLayer.Concrete
 
         public List<Message> GetListInbox(string userEmail)
         {
-           return  _messageDal.List(x=>x.ReceiverMail=="admin@gmail.com");
+           return  _messageDal.List(x=>x.ReceiverMail== userEmail);
         }
 
         public List<Message> GetListSendbox(string userEmail)
         {
-            return _messageDal.List(x => x.SenderMail=="admin@gmail.com");
+            return _messageDal.List(x => x.SenderMail== userEmail);
         }
 
 

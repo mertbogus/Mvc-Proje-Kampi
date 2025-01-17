@@ -18,5 +18,7 @@ namespace BusinessLayer.Abatract
         void HeadingDeleteBL(Heading heading);
 
         void HeadingUpdateBL(Heading heading);
+
+        List<Heading> GetListByWriter(int id);
     }
 }

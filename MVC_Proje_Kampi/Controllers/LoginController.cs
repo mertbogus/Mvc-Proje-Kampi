@@ -1,4 +1,6 @@
-﻿using DataAccessLayer.Concrete;
+﻿using BusinessLayer.Concrete;
+using DataAccessLayer.Concrete;
+using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
 using Newtonsoft.Json;
 using System;
@@ -16,6 +18,7 @@ namespace MVC_Proje_Kampi.Controllers
     [AllowAnonymous]
     public class LoginController : Controller
     {
+        WriterLoginManager wm = new WriterLoginManager(new EfWriterDal());
 
         [HttpGet]
         public ActionResult Index()
@@ -52,6 +55,37 @@ namespace MVC_Proje_Kampi.Controllers
             FormsAuthentication.SignOut();
             Session.Abandon();
             return RedirectToAction("Headings", "Default");
+        }
+
+        [HttpGet]
+        public ActionResult WriterLogin()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult WriterLogin(Writer p)
+        {
+
+            //Context context = new Context();
+            //var writerUserInfo = context.Writers.FirstOrDefault(x => x.Mail == p.Mail &&
+            //                                                       x.MWriterPassword == x.MWriterPassword);
+
+            var writerUserInfo = wm.GetWriter(p.Mail, p.MWriterPassword);
+
+            if (writerUserInfo != null)
+            {
+                FormsAuthentication.SetAuthCookie(writerUserInfo.Mail, false);
+                Session["Mail"] = writerUserInfo.Mail;
+                return RedirectToAction("MyContent", "WriterPanelContent");
+            }
+            else
+            {
+                ViewBag.ErrorMessage = "Kullanıcı Adı veya Şifreniz Yanlış!";
+                return RedirectToAction("Index");
+            }
+            
+            
         }
     }
 }

@@ -90,6 +90,7 @@
     <Compile Include="Abatract\IImageFileService.cs" />
     <Compile Include="Abatract\IMessageService.cs" />
     <Compile Include="Abatract\IRoleService.cs" />
+    <Compile Include="Abatract\IWriterLoginService.cs" />
     <Compile Include="Abatract\IWriterService.cs" />
     <Compile Include="Concrete\AboutManager.cs" />
     <Compile Include="Concrete\AdminManager.cs" />
@@ -100,6 +101,7 @@
     <Compile Include="Concrete\ImageFileManager.cs" />
     <Compile Include="Concrete\MessageManager.cs" />
     <Compile Include="Concrete\RoleManager.cs" />
+    <Compile Include="Concrete\WriterLoginManager.cs" />
     <Compile Include="Concrete\WriterManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ValidationRules\CategoryValidator.cs" />

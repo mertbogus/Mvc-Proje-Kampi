@@ -6,6 +6,7 @@ using System.Web.Mvc;
 
 namespace MVC_Proje_Kampi.Controllers
 {
+    
     public class HomeController : Controller
     {
         public ActionResult Index()
@@ -24,6 +25,12 @@ namespace MVC_Proje_Kampi.Controllers
         {
             ViewBag.Message = "Your contact page.";
 
+            return View();
+        }
+
+        [AllowAnonymous]
+        public ActionResult HomePage()
+        {
             return View();
         }
     }

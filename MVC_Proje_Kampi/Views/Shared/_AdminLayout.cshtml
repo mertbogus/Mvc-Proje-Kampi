@@ -56,7 +56,7 @@ to get the desired effect
                 <nav class="mt-2">
                     <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
                         <!-- Add icons to the links using the .nav-icon class
-                        with font-awesome or any other icon font library -->
+    with font-awesome or any other icon font library -->
                         @if (User.IsInRole("B"))
                         {
                             <li class="nav-item has-treeview menu-open">
@@ -94,19 +94,19 @@ to get the desired effect
                             </a>
                             <ul class="nav nav-treeview">
                                 <li class="nav-item">
-                                    <a href="pages/charts/chartjs.html" class="nav-link">
+                                    <a href="/Chart/CategoryPieChart/" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Grafik 1</p>
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="pages/charts/flot.html" class="nav-link">
+                                    <a href="/Chart/CategoryColumnChart/" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Grafik 2</p>
                                     </a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="pages/charts/inline.html" class="nav-link">
+                                    <a href="/Chart/CategoryLineChart/" class="nav-link">
                                         <i class="far fa-circle nav-icon"></i>
                                         <p>Grafik 3</p>
                                     </a>
@@ -162,8 +162,18 @@ to get the desired effect
                                 </p>
                             </a>
                         </li>
+
                         <li class="nav-item has-treeview">
-                            <a href="#" class="nav-link">
+                            <a href="/Heading/HeadingReport" class="nav-link">
+                                <i class="nav-icon far fa-envelope"></i>
+                                <p>
+                                    Hata Sayfaları
+                                    <i class="fas fa-angle-left right"></i>
+                                </p>
+                            </a>
+                        </li>
+                        <li class="nav-item has-treeview">
+                            <a href="/Home/HomePage" class="nav-link">
                                 <i class="nav-icon fas fa-book"></i>
                                 <p>
                                     Siteye Git

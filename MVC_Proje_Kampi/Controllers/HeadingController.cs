@@ -1,6 +1,7 @@
 ﻿using BusinessLayer.Concrete;
 using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
+using MVC_Proje_Kampi.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,7 @@ using System.Web.Mvc;
 
 namespace MVC_Proje_Kampi.Controllers
 {
-    [Authorize]
+    
     public class HeadingController : Controller
     {
         HeadingManager hm = new HeadingManager(new EfHeadingDal());
@@ -19,6 +20,40 @@ namespace MVC_Proje_Kampi.Controllers
         {
             var headingvalues = hm.GetList();
             return View(headingvalues);
+        }
+        [HttpGet]
+        public ActionResult IndexByCalender()
+        {
+            return View(new HeadingByCalendar());
+        }
+
+        public JsonResult GetEvents(DateTime start, DateTime end)
+        {
+            var viewModel = new HeadingByCalendar();
+            var events = new List<HeadingByCalendar>();
+            start = DateTime.Today.AddDays(-14);
+            end = DateTime.Today.AddDays(-14);
+
+            foreach (var item in hm.GetList())
+            {
+                events.Add(new HeadingByCalendar()
+                {
+                    title = item.HeadingName,
+                    start = item.HeadingDate,
+                    end = item.HeadingDate.AddDays(-14),
+                    allDay = false
+                });
+
+                start = start.AddDays(7);
+                end = end.AddDays(7);
+            }
+            return Json(events.ToArray(), JsonRequestBehavior.AllowGet);
+        }
+
+        public ActionResult HeadingReport()
+        {
+            var result = hm.GetList();
+            return View(result);
         }
         [HttpGet]
         public ActionResult AddHeading()

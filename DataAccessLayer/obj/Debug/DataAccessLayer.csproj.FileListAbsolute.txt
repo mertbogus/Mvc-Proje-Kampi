@@ -27,3 +27,4 @@ C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessL
 C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_imagefile.resources
 C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_admin_table.resources
 C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_adminandrole_update.resources
+C:\Users\MERT\source\repos\MVC_Proje_Kampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_content_status_add.resources

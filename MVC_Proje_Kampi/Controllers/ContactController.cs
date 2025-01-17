@@ -9,7 +9,7 @@ using System.Web.Mvc;
 
 namespace MVC_Proje_Kampi.Controllers
 {
-    [Authorize]
+    
     public class ContactController : Controller
     {
         
